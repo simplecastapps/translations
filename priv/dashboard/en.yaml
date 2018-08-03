@@ -1,0 +1,2 @@
+dasboard:
+  welcome: "hello {name}"
