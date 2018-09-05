@@ -1,10 +1,10 @@
 languages:
   en: "Ingles"
 days:
-  sunday: "Domingo",
-  monday: "Segunda Feira",
-  tuesday: "Terca Feira",
-  wednesday: "Quarta Feira",
-  thursday: "Quinta Feira",
-  friday: "Sexta Feira",
-  saturday: "Sabado",
+  sunday: "Domingo"
+  monday: "Segunda Feira"
+  tuesday: "Terca Feira"
+  wednesday: "Quarta Feira"
+  thursday: "Quinta Feira"
+  friday: "Sexta Feira"
+  saturday: "Sabado"
