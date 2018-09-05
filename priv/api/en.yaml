@@ -9,3 +9,11 @@ languages:
   ms: "Malay"
   fr: "French"
   de: "German"
+days:
+  sunday: "Sunday",
+  monday: "Monday",
+  tuesday: "Tuesday",
+  wednesday: "Wednesday",
+  thursday: "Thursday",.
+  friday: "Friday",
+  saturday: "Saturday",
