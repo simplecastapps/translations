@@ -1,0 +1,45 @@
+features:
+  unlimited_storage_space:
+    name: unlimited_storage_space is awesome
+    tooltip: description for unlimited_storage_space
+  unlimited_uploads:
+    name: unlimited_uploads is awesome
+    tooltip: description for unlimited_uploads
+  distribution_to_platforms:
+    name: distribution_to_platforms is awesome
+    tooltip: description for distribution_to_platforms
+  included_plays:
+    name: downloads per month
+    tooltip: description for downloads_per_month
+  has_cname_domain:
+    name: custom_domain is awesome
+    tooltip: description for custom_domain
+  has_google_analytics:
+    name: google analytics is awesome
+    tooltip: description for google_analytics
+  web_players:
+    name: web_players is awesome
+    tooltip: description for web_players
+  something_new:
+    name: something_new is awesome
+    tooltip: description for something_new
+  something_rad:
+    name: something_rad is awesome
+    tooltip: description for something_rad
+  max_team_members_allowed:
+    name: max_team_members_allowed is awesome
+    tooltip: description for max_team_members_allowed
+  recast_limits:
+    name: recast_limits is awesome
+    tooltip: description for recast_limits
+players:
+  has_embed_themes: "X Customizable Colors"
+  has_embed: "Standard"
+  has_slim_embed: "Mini"
+  has_playlist_embed: "Show"
+recast:
+  hours: "hrs"
+  minutes: "mins"
+  seconds: "s"
+  recast_user_share: "Creator x {{time}}{{interval}}"
+  recast_end_user_share: "Listener x {{time}}{{interval}}"
