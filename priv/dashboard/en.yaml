@@ -1,2 +1,20 @@
-dasboard:
+dashboard:
   welcome: "hello {name}"
+  subscription:
+    plans:
+      confirm_downgrade:
+        title: Confirm Downgrade
+        message: Please be aware that if you confirm this downgrade, you will lose the following on your new plan:
+        essential_basic:
+          team_members: The number of Team Members on your account will be reduced to 0 from 2
+          site_pages: You will be allowed no additional Site Pages for your site instead of 1
+          custom_domain: You will no longer be able to add a Custom Domain to your Simplecast Site
+        growth_essential:
+          team_members: The number of Team Members on your account will be reduced to 2 from 4
+          site_pages: You will only be allowed 1 additional Site Page for your site instead of 3
+          api: You will only be allowed Read Only API permissions and will lose the ability to Publish to the API.
+        growth_basic:
+          team_members: The number of Team Members on your account will be reduced to 0 from 4
+          site_pages: You will be allowed no additional Site Pages for your site instead of 3
+          api: You will only be allowed Read Only API permissions and will lose the ability to Publish to the API.
+          custom_domain: You will no longer be able to add a Custom Domain to your Simplecast Site
