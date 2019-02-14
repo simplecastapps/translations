@@ -18,3 +18,10 @@ dashboard:
           site_pages: You will be allowed no additional Site Pages for your site instead of 3
           api: You will only be allowed Read Only API permissions and will lose the ability to Publish to the API.
           custom_domain: You will no longer be able to add a Custom Domain to your Simplecast Site
+    card:
+      cvv_tooltip: For most cards, including Visa and Mastercard, this is the last three digits printed on the back of the card. For American Express, this is the four digits printed on the front of the card above the main number.
+    select_plan:
+      promo_code_tooltip: Add your promo code here! You will see your show's adjusted price before you finalize your subscription. After you add a card, you will no longer be able to add a promo code to this account.
+      legacy_upgrade_warning: Your plan currently reflects your 1.0 price of $12/month. Upon upgrading to {{ selectedPlan.name }}, you will not be able to return to this price.
+      upgrade_confirmation: You have successfully upgraded “{{ updated.title }}” to the {{ updated.subscription_item.plan.name }} Plan. You will be charged ${{ updated.subscription_item.plan.price }}/month. You will be prorated for the remainder of this month and this will be reflected in your next billing cycle.
+        price_change_message
