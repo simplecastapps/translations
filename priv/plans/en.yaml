@@ -28,6 +28,8 @@ features:
       read_only: Read-Only
       read_and_publish: Read + Publish
   web_players:
+    name: Web Players
+    description: Lorem ipsum
     standard_web_player:
       name: Standard web player
       tooltip: Our standard player for embedding your episodes around the web.
@@ -41,6 +43,8 @@ features:
       name: Color customization
       tooltip: You can customize all your embedded players with all the colors of the rainbow.
   website:
+    name: Website
+    description: Lorem ipsum
     secure_site:
       name: Secure site (https)
       tooltip: All Simplecast sites are secured by SSL.
@@ -58,6 +62,8 @@ features:
       tooltip: Add more pages to your website.
       custom_pages_count: {{custom_pages_count}}
   recast:
+    name: Recast
+    description: Lorem ipsum
     sharing_clip_length:
       name: Sharing clip length (max)
       tooltip: This denotes the maximum length of the audio clip you can create with Recast.
@@ -74,6 +80,8 @@ features:
       name: Tracking analytics
       tooltip: See how your recasts are being used and heard around the web!
   listener_analytics:
+    name: Listener Analytics
+    description: Lorem ipsum
     basic_analytics:
       name: Basic analytics
       text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Popular Time of Day, and Total Recasts Shared
