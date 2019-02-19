@@ -110,6 +110,7 @@ features:
     device_types:
       name: Device types
       tooltip: See the kinds of devices your listeners are using, such as phones or smart speakers.
+      plus_device_details: + Device Details
     internet_providers_listening_locations:
       name: Internet providers & listening locations
       tooltip: We provide information about your listeners' ISPs.
@@ -151,3 +152,4 @@ features:
     simplecast_premium:
       name: Simplecast Premium
       tooltip: Talk to us! Let's find a price that works for you and your needs.
+      description: Are you a quickly growing creator or brand, with more than 100,000 downloads a month? We'd love to tell you about Simplecast Premium, reach out biz@simplecast.com
