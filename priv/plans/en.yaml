@@ -1,45 +1,155 @@
 features:
-  unlimited_storage_space:
-    name: unlimited_storage_space is awesome
-    tooltip: description for unlimited_storage_space
-  unlimited_uploads:
-    name: unlimited_uploads is awesome
-    tooltip: description for unlimited_uploads
-  distribution_to_platforms:
-    name: distribution_to_platforms is awesome
-    tooltip: description for distribution_to_platforms
-  included_plays:
-    name: downloads per month
-    tooltip: description for downloads_per_month
-  has_cname_domain:
-    name: custom_domain is awesome
-    tooltip: description for custom_domain
-  has_google_analytics:
-    name: google analytics is awesome
-    tooltip: description for google_analytics
+  general:
+    unlimited_storage_space:
+      name: Unlimited storage space
+      tooltip: We don't limit the amount of audio you host with Simplecast, period.
+    unlimited_uploads:
+      name: Unlimited uploads
+      tooltip: Upload as much audio as you please. We don't charge extra for your uploads.
+    distribution_to_platforms:
+      name: Distribution to all platforms
+      tooltip: Easy distribution to Apple Podcasts, Google Podcasts, Spotify, Breaker, iHeartRadio, Overcast, Pocketcast, Radio Public, Stitcher, TuneIn, and more to come!
+    listener_analytics_and_reports:
+      name: Listener analytics & reports
+      tooltip: See a comprehensive overview of your show's popularity over time.
+    themed_show_website:
+      name: Themed show website
+      tooltip: All Simplecast shows come with a beautiful website, no set up required!
+    secure_rss_feed:
+      name: Secure RSS feed
+      tooltip: All Simplecast feeds are secured by SSL.
+    additional_team_members:
+      name: Additional team members
+      tooltip: Add more users to your show to help you manage and distribute your show!
+      members_count: {{team_members_count}}
+    api_access:
+      name: API access
+      tooltip: Use our API for integrations or custom built apps!
+      read_only: Read-Only
+      read_and_publish: Read + Publish
   web_players:
-    name: web_players is awesome
-    tooltip: description for web_players
-  something_new:
-    name: something_new is awesome
-    tooltip: description for something_new
-  something_rad:
-    name: something_rad is awesome
-    tooltip: description for something_rad
-  max_team_members_allowed:
-    name: max_team_members_allowed is awesome
-    tooltip: description for max_team_members_allowed
-  recast_limits:
-    name: recast_limits is awesome
-    tooltip: description for recast_limits
-players:
-  has_embed_themes: "X Customizable Colors"
-  has_embed: "Standard"
-  has_slim_embed: "Mini"
-  has_playlist_embed: "Show"
-recast:
-  hours: "hrs"
-  minutes: "mins"
-  seconds: "s"
-  recast_user_share: "Creator x {{time}}{{interval}}"
-  recast_end_user_share: "Listener x {{time}}{{interval}}"
+    name: Web Players
+    description: Lorem ipsum
+    standard_web_player:
+      name: Standard web player
+      tooltip: Our standard player for embedding your episodes around the web.
+    mini_player:
+      name: Mini player
+      tooltip: A small, elegant version of our embeddable web player.
+    show_player:
+      name: Show player
+      tooltip: This powerful option lets you embed all your show's episodes in one player.
+    color_customization:
+      name: Color customization
+      tooltip: You can customize all your embedded players with all the colors of the rainbow.
+  website:
+    name: Website
+    description: Lorem ipsum
+    secure_site:
+      name: Secure site (https)
+      tooltip: All Simplecast sites are secured by SSL.
+    theme_customization:
+      name: Theme customization
+      tooltip: You can customize your theme with colors and accents to match your show's branding.
+    google_analytics_facebook_pixel:
+      name: Google Analytics & Facebook Pixel
+      tooltip: You can optionally use third party tools that integrate with our site in order to monitor its traffic.
+    custom_domain:
+      name: Custom domain (yoursite.com)
+      tooltip: If you have a custom domain, you can easily use it with your Simplecast website.
+    custom_pages:
+      name: Custom pages
+      tooltip: Add more pages to your website.
+      custom_pages_count: {{custom_pages_count}}
+  recast:
+    name: Recast
+    description: Lorem ipsum
+    sharing_clip_length:
+      name: Sharing clip length (max)
+      tooltip: This denotes the maximum length of the audio clip you can create with Recast.
+      minutes: "Minutes"
+      seconds: "Seconds"
+      recast_user_share: "{{time}} {{interval}}"
+    download_and_share:
+      name: Download & Share
+      tooltip: After creating your recast, you can download the new file and share it with the world!
+    oembed_sharing:
+      name: oEmbed sharing
+      tooltip: Share recast with just a link, no download required.
+    tracking_analytics:
+      name: Tracking analytics
+      tooltip: See how your recasts are being used and heard around the web!
+  listener_analytics:
+    name: Listener Analytics
+    description: Lorem ipsum
+    basic_analytics:
+      name: Basic analytics
+      text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Popular Time of Day, and Total Recasts Shared
+      tooltip: Basic analytics are everything that you had in Simplecast 1.0 (plus a little bit more).
+    detailed_audience_insights:
+      name: Detailed audience insights
+      tooltip: Choose up to 7 preset date ranges (or customize your own!), view granularities of a month, week, day, or hour. You can also look at analytics for one episode at a time or for your entire show.
+    customizable_download_charts:
+      name: Customizable download charts
+      tooltip: Download customizable CSV reports of your analytics.
+    compare_episodes:
+      name: Compare episodes
+      tooltip: Plot your episodes' downloads over time or accumulative downloads against one another.
+      compare_episodes_count: {{compare_episodes_count}}
+    popular_day_time_matrix:
+      name: Popular day/time matrix
+      tooltip: Discover when your listeners are most likely to tune in.
+    interactive_location_map:
+      name: Interactive location map
+      tooltip: See a global overview of the locations your listeners are coming from, and zoom in to see details about their specific locations.
+      countries_and_states: Countries & States/Provinces
+      cities_and_metro_areas: + Cities & Metro areas
+    detailed_apps_browsers:
+      name: Detailed apps & browsers
+      tooltip: See what apps and browsers your listeners are using to tune in
+    device_types:
+      name: Device types
+      tooltip: See the kinds of devices your listeners are using, such as phones or smart speakers.
+      plus_device_details: + Device Details
+    internet_providers_listening_locations:
+      name: Internet providers & listening locations
+      tooltip: We provide information about your listeners' ISPs.
+    recast_insights:
+      name: Recast Insights - COMING SOON
+      tooltip: See analytics about how people are sharing and listening to your Recasts!
+    top_share_points:
+      name: Top share points
+      tooltip: See what part of your episode is getting recasted the most!
+    heatwave_reports:
+      name: Heatwave™ Reports
+      tooltip: See a visual heatwave of your Recast.
+    sharing_locations_referrers:
+      name: Sharing locations & referrers
+      tooltip: See the platforms your recasts have been shared.
+    per_episode_reports:
+      name: Per episode reports
+      tooltip: See custom reports for individual episodes.
+    web_player_insights:
+      name: Web player insights - COMING SOON
+      tooltip: Details about how your web players are being listened to and shared.
+    episode_percent_completed:
+      name: Episode % completed
+      tooltip: Get information on how long listeners are tuned into your episodes.
+    listening_speed:
+      name: Listening speed
+      tooltip: Are listeners playing at normal speed? 2x? Check it out!
+    frequent_drop_off_points:
+      name: Frequent drop-off points
+      tooltip: Learn about the places that users commonly stop listening to your episode.
+    embed_locations_referrers:
+      name: Embed locations & referrers
+      tooltip: See the platforms your embeds have been shared.
+  recommended_downloads:
+    included_downloads_per_month:
+      name: Included downloads per month
+      tooltip: The following numbers are soft limits on each pricing plan. If you go a little bit over the limit on a given month, we will contact you to talk about an upgrade, but we'll never bill you extra without letting you know first.
+      download_count: {{download_count}}
+    simplecast_premium:
+      name: Simplecast Premium
+      tooltip: Talk to us! Let's find a price that works for you and your needs.
+      description: Are you a quickly growing creator or brand, with more than 100,000 downloads a month? We'd love to tell you about Simplecast Premium, reach out biz@simplecast.com
