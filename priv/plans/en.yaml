@@ -1,6 +1,6 @@
 page:
   title: A Plan For Every Podcaster
-  subtitle: Have a quickly growing show consistently hitting 100,000 downloads a month? We’d love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we’re here to help.
+  subtitle: Have a quickly growing show consistently hitting 100,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
 features:
   general:
     unlimited_storage_space:
@@ -32,7 +32,7 @@ features:
       read_and_publish: Read + Publish
   web_players:
     name: Web Players
-    description: Simplecast provides you with the most beautiful, robust web players available. With three sizes and customizable colors, you can embed a single episode or an entire show library. Our players are oEmbed compliant, so it’s seamless to add them on site-builders like Squarespace or Wordpress, blogs like Medium, and social media.
+    description: Simplecast provides you with the most beautiful, robust web players available. With three sizes and customizable colors, you can embed a single episode or an entire show library. Our players are oEmbed compliant, so it's seamless to add them on site-builders like Squarespace or Wordpress, blogs like Medium, and social media.
     standard_web_player:
       name: Standard web player
       tooltip: Our standard player for embedding your episodes around the web.
@@ -47,7 +47,7 @@ features:
       tooltip: You can customize all your embedded players with all the colors of the rainbow.
   website:
     name: Website
-    description: With our all-new site builder, creating a site is as simple as publishing your first episode or trailer. Customize the theme colors or create additional pages. It’s beautiful, mobile-friendly, and SEO optimized by default. Want a custom website domain? We got you. HTTPS security on all sites, too!
+    description: With our all-new site builder, creating a site is as simple as publishing your first episode or trailer. Customize the theme colors or create additional pages. It's beautiful, mobile-friendly, and SEO optimized by default. Want a custom website domain? We got you. HTTPS security on all sites, too!
     secure_site:
       name: Secure site (https)
       tooltip: All Simplecast sites are secured by SSL.
@@ -66,7 +66,7 @@ features:
       custom_pages_count: {{custom_pages_count}}
   recast:
     name: Recast
-    description: Recast&reg; is a podcast sharing and discovery tool which allows your listeners to share custom clips of your episodes on social media. The industry’s first listener-powered audiogram tool offers insights into your listeners’ sharing habits through all-new reporting tools.
+    description: Recast&reg; is a podcast sharing and discovery tool which allows your listeners to share custom clips of your episodes on social media. The industry's first listener-powered audiogram tool offers insights into your listeners' sharing habits through all-new reporting tools.
     sharing_clip_length:
       name: Sharing clip length (max)
       tooltip: This denotes the maximum length of the audio clip you can create with Recast.
@@ -84,7 +84,7 @@ features:
       tooltip: See how your recasts are being used and heard around the web!
   listener_analytics:
     name: Listener Analytics
-    description: An audio analytics platform unlike any you’ve seen before. Better understand your users, where they are, where they listen (like at work or at home), and the apps and devices they use, with IAB compliant analytics right out of the box. We went and made enterprise-scale analytics affordable for podcasters everywhere.
+    description: An audio analytics platform unlike any you've seen before. Better understand your users, where they are, where they listen (like at work or at home), and the apps and devices they use, with IAB compliant analytics right out of the box. We went and made enterprise-scale analytics affordable for podcasters everywhere.
     basic_analytics:
       name: Basic analytics
       text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Popular Time of Day, and Total Recasts Shared
@@ -150,13 +150,13 @@ features:
   recommended_downloads:
     included_downloads_per_month:
       name: Included downloads per month
-      description: You need to focus on building a high quality show and growing an audience, not worrying about file size limits, thresholds, or overage fees. That’s why Simplecast provides 100% unlimited file storage and monthly uploads. In addition, each Plan’s download thresholds are 100% creator-friendly – giving you plenty of room to grow before you’d need to upgrade.
+      description: You need to focus on building a high quality show and growing an audience, not worrying about file size limits, thresholds, or overage fees. That's why Simplecast provides 100% unlimited file storage and monthly uploads. In addition, each Plan's download thresholds are 100% creator-friendly – giving you plenty of room to grow before you'd need to upgrade.
       tooltip: The following numbers are soft limits on each pricing plan. If you go a little bit over the limit on a given month, we will contact you to talk about an upgrade, but we'll never bill you extra without letting you know first.
       download_count: {{download_count}}
     simplecast_premium:
       name: Simplecast Pro
       tooltip: Talk to us! Let's find a price that works for you and your needs.
-      description: Have a quickly growing show consistently hitting 100,000 downloads a month? We’d love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we’re here to help.
+      description: Have a quickly growing show consistently hitting 100,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
   downgrade:
     remove_collabs: "You must remove {{number}} collaborators in order to downgrade"
     remove_cname: "You must remove your CNAME url from your podcast's site in order to downgrade"
