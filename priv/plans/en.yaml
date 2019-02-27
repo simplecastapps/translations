@@ -1,6 +1,6 @@
 page:
   title: A Plan For Every Podcaster
-  subtitle: Have a quickly growing show consistently hitting 100,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
+  subtitle: Have a quickly growing show consistently hitting 250,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
 features:
   general:
     unlimited_storage_space:
@@ -86,9 +86,9 @@ features:
     name: Listener Analytics
     description: An audio analytics platform unlike any you've seen before. Better understand your users, where they are, where they listen (like at work or at home), and the apps and devices they use, with IAB compliant analytics right out of the box. We went and made enterprise-scale analytics affordable for podcasters everywhere.
     basic_analytics:
-      name: Basic analytics
+      name: Standard analytics
       text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Popular Time of Day, and Total Recasts Shared
-      tooltip: Basic analytics are everything that you had in Simplecast 1.0 (plus a little bit more).
+      tooltip: Standard analytics are everything that you had in Simplecast 1.0 (plus a little bit more).
     detailed_audience_insights:
       name: Detailed audience insights
       tooltip: Choose up to 7 preset date ranges (or customize your own!), view granularities of a month, week, day, or hour. You can also look at analytics for one episode at a time or for your entire show.
@@ -157,7 +157,7 @@ features:
     simplecast_premium:
       name: Simplecast Pro
       tooltip: Talk to us! Let's find a price that works for you and your needs.
-      description: Have a quickly growing show consistently hitting 100,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
+      description: Have a quickly growing show consistently hitting 250,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
   downgrade:
     remove_collabs: "You must remove {{number}} collaborators in order to downgrade"
     remove_cname: "You must remove your CNAME url from your podcast's site in order to downgrade"
