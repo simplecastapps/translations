@@ -148,9 +148,10 @@ features:
       name: Embed locations & referrers
       tooltip: See the platforms your embeds have been shared.
   recommended_downloads:
+    name: Recommended Downloads
+    description: You need to focus on building a high quality show and growing an audience, not worrying about file size limits, thresholds, or overage fees. That's why Simplecast provides 100% unlimited file storage and monthly uploads. In addition, each Plan's download thresholds are 100% creator-friendly – giving you plenty of room to grow before you'd need to upgrade.
     included_downloads_per_month:
       name: Included downloads per month
-      description: You need to focus on building a high quality show and growing an audience, not worrying about file size limits, thresholds, or overage fees. That's why Simplecast provides 100% unlimited file storage and monthly uploads. In addition, each Plan's download thresholds are 100% creator-friendly – giving you plenty of room to grow before you'd need to upgrade.
       tooltip: The following numbers are soft limits on each pricing plan. If you go a little bit over the limit on a given month, we will contact you to talk about an upgrade, but we'll never bill you extra without letting you know first.
       download_count: {{download_count}}
     simplecast_premium:
