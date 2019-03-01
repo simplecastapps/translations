@@ -61,7 +61,7 @@ features:
       name: Custom domain (yoursite.com)
       tooltip: If you have a custom domain, you can easily use it with your Simplecast website.
     custom_pages:
-      name: Custom pages
+      name: Custom pages - COMING SPRING
       tooltip: Add more pages to your website.
       custom_pages_count: {{custom_pages_count}}
   recast:
@@ -87,7 +87,7 @@ features:
     description: An audio analytics platform unlike any you've seen before. Better understand your users, where they are, where they listen (like at work or at home), and the apps and devices they use, with IAB compliant analytics right out of the box. We went and made enterprise-scale analytics affordable for podcasters everywhere.
     basic_analytics:
       name: Standard analytics
-      text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Popular Time of Day, and Total Recasts Shared
+      text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Interactive Heatmap, Popular Time of Day, and Total Recasts Shared
       tooltip: Standard analytics are everything that you had in Simplecast 1.0 (plus a little bit more).
     detailed_audience_insights:
       name: Detailed audience insights
@@ -118,7 +118,7 @@ features:
       name: Internet providers & listening locations
       tooltip: We provide information about your listeners' ISPs.
     recast_insights:
-      name: Recast Insights - COMING SOON
+      name: Recast Insights - COMING SPRING
       tooltip: See analytics about how people are sharing and listening to your Recasts!
     top_share_points:
       name: Top share points
@@ -133,7 +133,7 @@ features:
       name: Per episode reports
       tooltip: See custom reports for individual episodes.
     web_player_insights:
-      name: Web player insights - COMING SOON
+      name: Web player insights - COMING SPRING
       tooltip: Details about how your web players are being listened to and shared.
     episode_percent_completed:
       name: Episode % completed
