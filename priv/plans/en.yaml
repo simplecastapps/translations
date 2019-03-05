@@ -86,11 +86,24 @@ features:
     name: Listener Analytics
     description: An audio analytics platform unlike any you've seen before. Better understand your users, where they are, where they listen (like at work or at home), and the apps and devices they use, with IAB compliant analytics right out of the box. We went and made enterprise-scale analytics affordable for podcasters everywhere.
     basic_analytics:
-      name: Standard analytics
-      text: Includes Show & Individual Episode Reports, Top Episodes Chart, Top Listening Apps, Top Countries, Interactive Heatmap, Popular Time of Day, and Total Recasts Shared
-      tooltip: Standard analytics are everything that you had in Simplecast 1.0 (plus a little bit more).
+      name: ANALYTICS OVERVIEW
+      tooltip: The analytics overview has everything that you had in Simplecast 1.0 (plus a little bit more).
+    show_individual_episode_reports:
+      name: Show & individual episode reports
+    top_episodes:
+      name: Top episodes
+    top_listening_apps:
+      name: Top listening apps
+    top_countries:
+      name: Top countries
+    geographic_heatmap:
+      name: Geographic heatmap
+    popular_time_day:
+      name: Most popular time of day
+    total_recasts_shared:
+      name: Total recasts shared - Coming Spring
     detailed_audience_insights:
-      name: Detailed audience insights
+      name: AUDIENCE INSIGHTS - New
       tooltip: Choose up to 7 preset date ranges (or customize your own!), view granularities of a month, week, day, or hour. You can also look at analytics for one episode at a time or for your entire show.
     customizable_download_charts:
       name: Customizable download charts
@@ -118,7 +131,7 @@ features:
       name: Internet providers & listening locations
       tooltip: We provide information about your listeners' ISPs.
     recast_insights:
-      name: Recast Insights - COMING SPRING
+      name: RECAST INSIGHTS - Coming Spring
       tooltip: See analytics about how people are sharing and listening to your Recasts!
     top_share_points:
       name: Top share points
@@ -133,7 +146,7 @@ features:
       name: Per episode reports
       tooltip: See custom reports for individual episodes.
     web_player_insights:
-      name: Web player insights - COMING SPRING
+      name: WEB PLAYER INSIGHTS - Coming Spring
       tooltip: Details about how your web players are being listened to and shared.
     episode_percent_completed:
       name: Episode % completed
