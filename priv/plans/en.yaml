@@ -61,7 +61,7 @@ features:
       name: Custom domain (yoursite.com)
       tooltip: If you have a custom domain, you can easily use it with your Simplecast website.
     custom_pages:
-      name: Custom pages - COMING SPRING
+      name: Custom pages - Coming Spring
       tooltip: Add more pages to your website.
       custom_pages_count: {{custom_pages_count}}
   recast:
