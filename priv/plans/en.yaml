@@ -68,19 +68,20 @@ features:
     name: Recast
     description: Recast&reg; is a podcast sharing and discovery tool which allows your listeners to share custom clips of your episodes on social media. The industry's first listener-powered audiogram tool offers insights into your listeners' sharing habits through all-new reporting tools.
     sharing_clip_length:
-      name: Sharing clip length (max)
+      name: Sharing clip length (90s max)
       tooltip: This denotes the maximum length of the audio clip you can create with Recast.
       minutes: "Minutes"
       seconds: "Seconds"
+      plus_3_minutes: "+ 3m max - Coming Soon"
       recast_user_share: "{{time}} {{interval}}"
     download_and_share:
       name: Download & Share
       tooltip: After creating your recast, you can download the new file and share it with the world!
     oembed_sharing:
-      name: oEmbed sharing
+      name: oEmbed sharing - Coming Soon
       tooltip: Share recast with just a link, no download required.
     tracking_analytics:
-      name: Tracking analytics
+      name: Tracking analytics - Coming Soon
       tooltip: See how your recasts are being used and heard around the web!
   listener_analytics:
     name: Listener Analytics
