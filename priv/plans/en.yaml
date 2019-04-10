@@ -101,6 +101,8 @@ features:
       name: Geographic heatmap
     popular_time_day:
       name: Most popular time of day
+    unique_listeners_last_seven_days:
+      name: Unique listeners from the last 7 days
     total_recasts_shared:
       name: Total recasts shared - Coming Spring
     detailed_audience_insights:
@@ -131,6 +133,9 @@ features:
     internet_providers_listening_locations:
       name: Internet providers & listening locations
       tooltip: We provide information about your listeners' ISPs.
+    unique_listener_reports:
+      name: Unique listener reports
+      tooltip: Discover how many unique listeners are tuning into your episodes.
     recast_insights:
       name: RECAST INSIGHTS - Coming Spring
       tooltip: See analytics about how people are sharing and listening to your Recasts!
