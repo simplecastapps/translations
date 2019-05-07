@@ -1,6 +1,6 @@
 page:
   title: A Plan For Every Podcaster
-  subtitle: Have a quickly growing show consistently hitting 250,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
+  subtitle: Looking for enterprise-level features and support? Have a quickly growing show? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
 features:
   general:
     unlimited_storage_space:
@@ -174,9 +174,9 @@ features:
       tooltip: The following numbers are soft limits on each pricing plan. If you go a little bit over the limit on a given month, we will contact you to talk about an upgrade, but we'll never bill you extra without letting you know first.
       download_count: {{download_count}}
     simplecast_premium:
-      name: Simplecast Pro
+      name: Simplecast Professional
       tooltip: Talk to us! Let's find a price that works for you and your needs.
-      description: Have a quickly growing show consistently hitting 250,000 downloads a month? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
+      description: Looking for enterprise-level features and support? Have a quickly growing show? We'd love to tell you about Simplecast Professional. <a href="mailto:pro@simplecast.com">Reach out</a> – we're here to help.
   downgrade:
     remove_collabs: "You must remove {{number}} collaborators or invitations in order to downgrade"
     remove_cname: "You must remove your CNAME url from your podcast's site in order to downgrade"
