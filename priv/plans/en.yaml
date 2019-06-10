@@ -61,7 +61,7 @@ features:
       name: Custom domain (yoursite.com)
       tooltip: If you have a custom domain, you can easily use it with your Simplecast website.
     custom_pages:
-      name: Custom pages - Coming Spring
+      name: Custom pages - Coming Soon
       tooltip: Add more pages to your website.
       custom_pages_count: {{custom_pages_count}}
   recast:
@@ -104,7 +104,7 @@ features:
     unique_listeners_last_seven_days:
       name: Unique listeners from the last 7 days
     total_recasts_shared:
-      name: Total recasts shared - Coming Spring
+      name: Total recasts shared - Coming Soon
     detailed_audience_insights:
       name: AUDIENCE INSIGHTS - New
       tooltip: Choose up to 7 preset date ranges (or customize your own!), view granularities of a month, week, day, or hour. You can also look at analytics for one episode at a time or for your entire show.
@@ -137,7 +137,7 @@ features:
       name: Unique listener reports
       tooltip: Discover how many unique listeners are tuning into your episodes.
     recast_insights:
-      name: RECAST INSIGHTS - Coming Spring
+      name: RECAST INSIGHTS - Coming Soon
       tooltip: See analytics about how people are sharing and listening to your Recasts!
     top_share_points:
       name: Top share points
@@ -152,7 +152,7 @@ features:
       name: Per episode reports
       tooltip: See custom reports for individual episodes.
     web_player_insights:
-      name: WEB PLAYER INSIGHTS - Coming Spring
+      name: WEB PLAYER INSIGHTS - Coming Soon
       tooltip: Details about how your web players are being listened to and shared.
     episode_percent_completed:
       name: Episode % completed
