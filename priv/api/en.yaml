@@ -249,7 +249,7 @@ languages:
   zh-tw: "Chinese (Traditional)"
   zh: "Chinese"
   zu: "Zulu"
-notifications:
+notices:
   add_billing_and_plan:
     title: "Pick a plan and add your billing info to enable your RSS feed to distribute your show"
     body: "You need to add billing before you can publish or distribute your Show"
