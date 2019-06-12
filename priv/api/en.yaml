@@ -257,7 +257,7 @@ notices:
     button: "Add Billing"
   create_and_publish:
     title: "Publish an episode"
-    body: "In order to submit and publish your Show, you must first add an episode"
+    body: "In order to submit and publish your Show, you must first publish an episode"
     action: "create-episode"
     button: "Add Episode"
   customize_site:
