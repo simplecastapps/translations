@@ -251,7 +251,7 @@ languages:
   zu: "Zulu"
 notices:
   add_billing_and_plan:
-    title: "Pick a plan and add your billing info to enable your RSS feed to distribute your show"
+    title: "Add billing and pick a plan"
     body: "You need to add billing before you can publish or distribute your Show"
     action: "account-billing"
     button: "Add Billing"
@@ -271,7 +271,7 @@ notices:
     action: "show-distribution"
     button: "View Distribution Settings"
   view_knowledge_base:
-    title: "Learn more about Simplecast"
+    title: "Guides and help"
     body: "Want some help understanding how to use Simplecast? Check out the Knowledge Base."
     action: "https://help.simplecast.com"
     button: "Visit Knowledge Base"
