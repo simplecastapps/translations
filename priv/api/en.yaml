@@ -267,9 +267,9 @@ notices:
     button: "View Site Settings"
   submit_to_services:
     title: "Submit your show"
-    body: "To make your show ready for the world, you should start by submitting your Podcast to Apple Podcasts and other services"
+    body: "To allow listeners to enjoy your show, submit your feed to Apple Podcasts, Spotify, and more"
     action: "show-distribution"
-    button: "View Distribution Settings"
+    button: "Distribution Settings"
   view_knowledge_base:
     title: "Guides and help"
     body: "Want some help understanding how to use Simplecast? Check out the Knowledge Base."
