@@ -6,6 +6,8 @@ days:
   thursday: "Thursday"
   friday: "Friday"
   saturday: "Saturday"
+podcast:
+  cannot_create_limit_reached: "You have reached your limit and can no longer create or import more shows"
 languages:
   aa: "Afar"
   ab: "Abkhazian"
