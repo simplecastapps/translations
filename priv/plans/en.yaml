@@ -78,7 +78,7 @@ features:
       name: Download & Share
       tooltip: After creating your recast, you can download the new file and share it with the world!
     oembed_sharing:
-      name: oEmbed sharing - Coming Soon
+      name: oEmbed sharing
       tooltip: Share recast with just a link, no download required.
     tracking_analytics:
       name: Tracking analytics - Coming Soon
