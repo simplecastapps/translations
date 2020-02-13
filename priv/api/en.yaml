@@ -259,7 +259,12 @@ notices:
     button: "Add Billing"
   create_and_publish:
     title: "Publish an episode"
-    body: "In order to submit and publish your Show, you must first publish an episode"
+    body: >
+      In order to submit and publish your Show, you must first publish an episode.
+      <small>
+        Still have questions?
+        <a href="mailto:support@simplecast.com">Contact our support team</a>.
+      </small>
     action: "create-episode"
     button: "Add Episode"
   customize_site:
