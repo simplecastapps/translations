@@ -256,7 +256,7 @@ notices:
   add_billing_and_plan:
     title: "Add billing and pick a plan"
     body: "You need to add billing before you can publish or distribute your Show"
-    action: "account-billing"
+    action: "accounts-billing"
     button: "Add Billing"
   create_and_publish:
     title: "Publish an episode"
